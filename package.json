@@ -1,5 +1,5 @@
 {
-  "name": "country-region-data",
+  "name": "@wishknish/country-region-data",
   "version": "1.7.0",
   "description": "List of countries, regions, and their shortcodes.",
   "main": "data.json",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/benkeen/country-region-data.git"
+    "url": "https://github.com/WishKnish/country-region-data.git"
   },
   "keywords": [
     "country",
@@ -17,6 +17,24 @@
     "data"
   ],
   "author": "Ben Keen",
+  "contributors": [
+    {
+      "name": "Eugene Teplitsky",
+      "email": "eugene@wishknish.com",
+      "homepage": "https://wishknish.com",
+      "role": "developer"
+    },
+    {
+      "name": "Vladimir Makarov",
+      "email": "vladimir.php@gmail.com",
+      "role": "developer"
+    },
+    {
+      "name": "Yuri Kizilov",
+      "email": "y.kizilov.sev@yandex.ru",
+      "role": "developer"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/benkeen/country-region-data/issues"
