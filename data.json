@@ -17889,252 +17889,314 @@
         "countryName": "United States",
         "countryShortCode": "US",
         "regions": [{
-                "name": "Alabama",
-                "shortCode": "AL"
-            },
+            "name": "Alabama",
+            "shortCode": "AL",
+            "taxRate": 4
+        },
             {
                 "name": "Alaska",
-                "shortCode": "AK"
+                "shortCode": "AK",
+                "taxRate": 0
             },
             {
                 "name": "American Samoa",
-                "shortCode": "AS"
+                "shortCode": "AS",
+                "taxRate": 0
             },
             {
                 "name": "Arizona",
-                "shortCode": "AZ"
+                "shortCode": "AZ",
+                "taxRate": 5.6
             },
             {
                 "name": "Arkansas",
-                "shortCode": "AR"
+                "shortCode": "AR",
+                "taxRate": 6.5
             },
             {
                 "name": "California",
-                "shortCode": "CA"
+                "shortCode": "CA",
+                "taxRate": 7.25
             },
             {
                 "name": "Colorado",
-                "shortCode": "CO"
+                "shortCode": "CO",
+                "taxRate": 2.9
             },
             {
                 "name": "Connecticut",
-                "shortCode": "CT"
+                "shortCode": "CT",
+                "taxRate": 6.35
             },
             {
                 "name": "Delaware",
-                "shortCode": "DE"
+                "shortCode": "DE",
+                "taxRate": 0
             },
             {
                 "name": "District of Columbia",
-                "shortCode": "DC"
+                "shortCode": "DC",
+                "taxRate": 6
             },
             {
                 "name": "Micronesia",
-                "shortCode": "FM"
+                "shortCode": "FM",
+                "taxRate": 0
             },
             {
                 "name": "Florida",
-                "shortCode": "FL"
+                "shortCode": "FL",
+                "taxRate": 6
             },
             {
                 "name": "Georgia",
-                "shortCode": "GA"
+                "shortCode": "GA",
+                "taxRate": 4
             },
             {
                 "name": "Guam",
-                "shortCode": "GU"
+                "shortCode": "GU",
+                "taxRate": 0
             },
             {
                 "name": "Hawaii",
-                "shortCode": "HI"
+                "shortCode": "HI",
+                "taxRate": 4
             },
             {
                 "name": "Idaho",
-                "shortCode": "ID"
+                "shortCode": "ID",
+                "taxRate": 6
             },
             {
                 "name": "Illinois",
-                "shortCode": "IL"
+                "shortCode": "IL",
+                "taxRate": 6.25
             },
             {
                 "name": "Indiana",
-                "shortCode": "IN"
+                "shortCode": "IN",
+                "taxRate": 7
             },
             {
                 "name": "Iowa",
-                "shortCode": "IA"
+                "shortCode": "IA",
+                "taxRate": 6
             },
             {
                 "name": "Kansas",
-                "shortCode": "KS"
+                "shortCode": "KS",
+                "taxRate": 6.5
             },
             {
                 "name": "Kentucky",
-                "shortCode": "KY"
+                "shortCode": "KY",
+                "taxRate": 6
             },
             {
                 "name": "Louisiana",
-                "shortCode": "LA"
+                "shortCode": "LA",
+                "taxRate": 4.45
             },
             {
                 "name": "Maine",
-                "shortCode": "ME"
+                "shortCode": "ME",
+                "taxRate": 5.5
             },
             {
                 "name": "Marshall Islands",
-                "shortCode": "MH"
+                "shortCode": "MH",
+                "taxRate": 0
             },
             {
                 "name": "Maryland",
-                "shortCode": "MD"
+                "shortCode": "MD",
+                "taxRate": 6
             },
             {
                 "name": "Massachusetts",
-                "shortCode": "MA"
+                "shortCode": "MA",
+                "taxRate": 6.25
             },
             {
                 "name": "Michigan",
-                "shortCode": "MI"
+                "shortCode": "MI",
+                "taxRate": 6
             },
             {
                 "name": "Minnesota",
-                "shortCode": "MN"
+                "shortCode": "MN",
+                "taxRate": 6.875
             },
             {
                 "name": "Mississippi",
-                "shortCode": "MS"
+                "shortCode": "MS",
+                "taxRate": 7
             },
             {
                 "name": "Missouri",
-                "shortCode": "MO"
+                "shortCode": "MO",
+                "taxRate": 4.225
             },
             {
                 "name": "Montana",
-                "shortCode": "MT"
+                "shortCode": "MT",
+                "taxRate": 0
             },
             {
                 "name": "Nebraska",
-                "shortCode": "NE"
+                "shortCode": "NE",
+                "taxRate": 5.5
             },
             {
                 "name": "Nevada",
-                "shortCode": "NV"
+                "shortCode": "NV",
+                "taxRate": 6.85
             },
             {
                 "name": "New Hampshire",
-                "shortCode": "NH"
+                "shortCode": "NH",
+                "taxRate": 0
             },
             {
                 "name": "New Jersey",
-                "shortCode": "NJ"
+                "shortCode": "NJ",
+                "taxRate": 6.625
             },
             {
                 "name": "New Mexico",
-                "shortCode": "NM"
+                "shortCode": "NM",
+                "taxRate": 5.125
             },
             {
                 "name": "New York",
-                "shortCode": "NY"
+                "shortCode": "NY",
+                "taxRate": 4
             },
             {
                 "name": "North Carolina",
-                "shortCode": "NC"
+                "shortCode": "NC",
+                "taxRate": 4.75
             },
             {
                 "name": "North Dakota",
-                "shortCode": "ND"
+                "shortCode": "ND",
+                "taxRate": 5
             },
             {
                 "name": "Northern Mariana Islands",
-                "shortCode": "MP"
+                "shortCode": "MP",
+                "taxRate": 0
             },
             {
                 "name": "Ohio",
-                "shortCode": "OH"
+                "shortCode": "OH",
+                "taxRate": 5.75
             },
             {
                 "name": "Oklahoma",
-                "shortCode": "OK"
+                "shortCode": "OK",
+                "taxRate": 4.5
             },
             {
                 "name": "Oregon",
-                "shortCode": "OR"
+                "shortCode": "OR",
+                "taxRate": 0
             },
             {
                 "name": "Palau",
-                "shortCode": "PW"
+                "shortCode": "PW",
+                "taxRate": 0
             },
             {
                 "name": "Pennsylvania",
-                "shortCode": "PA"
+                "shortCode": "PA",
+                "taxRate": 6
             },
             {
                 "name": "Puerto Rico",
-                "shortCode": "PR"
+                "shortCode": "PR",
+                "taxRate": 11.5
             },
             {
                 "name": "Rhode Island",
-                "shortCode": "RI"
+                "shortCode": "RI",
+                "taxRate": 7
             },
             {
                 "name": "South Carolina",
-                "shortCode": "SC"
+                "shortCode": "SC",
+                "taxRate": 6
             },
             {
                 "name": "South Dakota",
-                "shortCode": "SD"
+                "shortCode": "SD",
+                "taxRate": 4.5
             },
             {
                 "name": "Tennessee",
-                "shortCode": "TN"
+                "shortCode": "TN",
+                "taxRate": 7
             },
             {
                 "name": "Texas",
-                "shortCode": "TX"
+                "shortCode": "TX",
+                "taxRate": 6.25
             },
             {
                 "name": "Utah",
-                "shortCode": "UT"
+                "shortCode": "UT",
+                "taxRate": 4.85
             },
             {
                 "name": "Vermont",
-                "shortCode": "VT"
+                "shortCode": "VT",
+                "taxRate": 6
             },
             {
                 "name": "Virgin Islands",
-                "shortCode": "VI"
+                "shortCode": "VI",
+                "taxRate": 0
             },
             {
                 "name": "Virginia",
-                "shortCode": "VA"
+                "shortCode": "VA",
+                "taxRate": 4.3
             },
             {
                 "name": "Washington",
-                "shortCode": "WA"
+                "shortCode": "WA",
+                "taxRate": 6.5
             },
             {
                 "name": "West Virginia",
-                "shortCode": "WV"
+                "shortCode": "WV",
+                "taxRate": 6
             },
             {
                 "name": "Wisconsin",
-                "shortCode": "WI"
+                "shortCode": "WI",
+                "taxRate": 5
             },
             {
                 "name": "Wyoming",
-                "shortCode": "WY"
+                "shortCode": "WY",
+                "taxRate": 4
             },
             {
                 "name": "Armed Forces Americas",
-                "shortCode": "AA"
+                "shortCode": "AA",
+                "taxRate": 0
             },
             {
                 "name": "Armed Forces Europe, Canada, Africa and Middle East",
-                "shortCode": "AE"
+                "shortCode": "AE",
+                "taxRate": 0
             },
             {
                 "name": "Armed Forces Pacific",
-                "shortCode": "AP"
+                "shortCode": "AP",
+                "taxRate": 0
             }
         ]
     },
